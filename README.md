@@ -6,11 +6,11 @@
 ECMA2015문법을 사용하며 html5 canvas, node, express, webpack 등의 도구도 사용됩니다.
 
 예제소스는 [이곳](https://github.com/newpouy/startJS)에 있습니다
-<br><br>
+<br>
 
 Are you a begginer in programming or development? How about trying it with javascript? Javascript is a programming language not only familiar with us for internet, but also increasingly having various usage like server-side environment. However, it is not easy to deal. Moreover, Browser Vendor like google, apple, ms, don't support united spec, even though the existing of standard. So sometimes we feel like getting bogged.<br>
 
-This curriculum intends to focus on the fun of programming. You don't need to know any knowledge of particular technical area like web front-end or server or IoT etc. If you are interesting in making beautiful web site using jquery or  nodejs powered IoT server, this curriculum is not proper for you. There're a lot of sites about that. Let's search with life.     
+This curriculum intends to focus on the fun of programming, itself. You don't need to know any knowledge of particular technical area like web front-end or server or IoT etc. We target to the person having a few interesting about programming, saying "developer is a geek. they fall in love with PC" If you are interesting in making dynamic web site using jquery or nodejs powered IoT server, this curriculum is not proper for you. There're a lot of sites about that. Let's search with life.     
 
 We will use the grammar of ECMA2015 spec and hire html5 canvas, node, express, webpack just as a tool.
 <br>
@@ -30,4 +30,14 @@ You can see sources [here](https://github.com/newpouy/startJS).
 0501 ------ (계획중) 인생은 게임이지 ( gamification )<br>
 0601 ------ 자랑질하고 싶을 땐 (heroku를 활용한 배포)<br>
 <br>
-<br>
+0101 ------ In the beginnig, there's a JS ( Env Set )<br>
+0201 ------ If there's not light ( if~else ) <br>
+0202 ------ Until to the Earth ( for, while )<br>
+0203 ------ Making Person ( class,constructor,this )<br>
+0301 ------ Move To The Visible (node, express 서버세팅)<br>
+0302 ------ Rect Rect Rect, Tri Tri, Circle (html5 canvas)<br>
+0303 ------ It's good to see -1  ( export, import )<br>
+0304 ------ It's good to see -2  ( composite pattern )<br>
+0401 ------ (계획중) 헐 움직인다 ( animation, async )<br>
+0501 ------ (계획중) 인생은 게임이지 ( gamification )<br>
+0601 ------ Proud with yours (heroku deploy)<br>
